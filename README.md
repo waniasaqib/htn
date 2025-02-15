@@ -8,12 +8,6 @@ This project is my submission for the Hack the North 2025 Frontend Developer Cha
 - Implements login functionality to restrict access to private events.
 - Allows navigation between related events.
 - Designed with React (Vite), Tailwind CSS, and Framer Motion for a smooth and responsive UI.
-## 🛠️ Tech Stack
-
-Frontend: React, Vite, TypeScript, Tailwind CSS
-State Management: React Hooks
-Animations: Framer Motion
-API Handling: Fetch API, Axios
 ## 🔗 Deployment
 
 This site is live right now! View it at: https://waniasaqib.github.io/htn/ 
